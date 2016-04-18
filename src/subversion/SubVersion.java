@@ -16,8 +16,13 @@ public class SubVersion {
     /**
      * @param args the command line arguments
      */
+<<<<<<< .mine
+
+	//Comentari del projecte 1
+=======
 	
 	//Comentari del projecte 1
+>>>>>>> .r3
     public static void main(String[] args) {
         int[] nums = new int[10];
 
