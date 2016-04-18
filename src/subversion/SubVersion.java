@@ -17,7 +17,7 @@ public class SubVersion {
      * @param args the command line arguments
      */
 
-	//Comentari modificat
+	//Comentari modificat ara mateix
     public static void main(String[] args) {
         int[] nums = new int[10];
 
