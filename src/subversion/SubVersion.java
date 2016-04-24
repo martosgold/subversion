@@ -18,7 +18,7 @@ public class SubVersion {
      */
 
 	//Comentari modificat ara diumenge 
-	//nou comentari nou
+	//nou de trinca
     public static void main(String[] args) {
         int[] nums = new int[10];
 
